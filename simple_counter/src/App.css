@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.allCounters {
+  display: flex;
+  justify-content: center;
+}
+#inputButton {
+  
+
+  height: 35px;
+  width: 80px;
+
+}
+#inputField {
+  border-radius: 0.375rem;
+  height: 37px;
+  width: 100px;
+}
+
